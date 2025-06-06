@@ -1,5 +1,5 @@
-# Sakoen Dictionary
+# Tarot Card Glossary
 
-Personal project. Local dictionary for the 'Sakoen' constructed language.
+Personal project. Local glossary for all cards in a standard tarot deck.
 
-Status: work in progress (still adding words).
+Status: almost finished (needs polishing).
