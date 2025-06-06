@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarot Cards Meaning</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="./assets/icons/icon.ico">
+</head>
+
+<body>
+
+    <h1 id="pagename">Card Glossary</h1>
+
+    <input id="mainPageBtn" class="btn" type="button" value="Main Page">
+
+    <label for="selector"></label>
+    <select id="selector">
+        <option value="card">Card</option>
+        <option value="major">Major</option>
+        <option value="minor">Minor</option>
+        <option value="suit">Suit</option>
+    </select>
+
+    <label for="searchbar"></label>
+    <input id="searchbar" type="search" placeholder="input text">
+
+    <table id="results"></table>
+
+    <script src="data.js"></script>
+    <script src="glossary.js"></script>
+
+</body>
+
+</html>
