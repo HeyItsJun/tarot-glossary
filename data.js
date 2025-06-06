@@ -13,7 +13,7 @@ const entries = [
     "minor": null,
     "suit": null,
     "meaning": "El Mago simboliza la habilidad, la iniciativa y el poder de manifestación. Representa el talento, la concentración y la destreza para transformar ideas en realidad. Indica que se dispone de todos los recursos necesarios para alcanzar metas y que es momento de actuar con confianza.",
-    "alt": "Invertido, El Mago puede sugerir manipulación, engaño o falta de concentración. Señala bloqueo creativo, dudas sobre el propio potencial o uso indebido del conocimiento para fines egoístas."
+    "alt": "El Mago puede sugerir manipulación, engaño o falta de concentración. Señala bloqueo creativo, dudas sobre el propio potencial o uso indebido del conocimiento para fines egoístas."
   },
   {
     "card": "La Sacerdotisa",
@@ -37,7 +37,7 @@ const entries = [
     "minor": null,
     "suit": null,
     "meaning": "El Emperador representa autoridad, estructura y control. Simboliza la estabilidad, la ley y el liderazgo responsable. Indica la necesidad de establecer límites claros, organización y disciplina para alcanzar metas a largo plazo.",
-    "alt": "Invertido, el Emperador puede señalar abuso de poder, rigidez excesiva o autoritarismo. Advierte falta de organización, inmadurez o incapacidad para responsabilizarse, así como posibles conflictos de poder."
+    "alt": "el Emperador puede señalar abuso de poder, rigidez excesiva o autoritarismo. Advierte falta de organización, inmadurez o incapacidad para responsabilizarse, así como posibles conflictos de poder."
   },
   {
     "card": "El Hierofante",
@@ -181,7 +181,7 @@ const entries = [
     "minor": "1",
     "suit": "Bastos",
     "meaning": "El As de Bastos simboliza el inicio de un proyecto lleno de energía, inspiración y entusiasmo. Representa la chispa creativa y el impulso emprendedor, indicando que es el momento propicio para plantar nuevas ideas y actuar con determinación.",
-    "alt": "Invertido, el As de Bastos puede señalar bloqueos creativos, falta de motivación o miedo a iniciar algo novedoso. Advierte que la energía potencial no se está aprovechando correctamente y que es necesario replantear el enfoque antes de avanzar."
+    "alt": "el As de Bastos puede señalar bloqueos creativos, falta de motivación o miedo a iniciar algo novedoso. Advierte que la energía potencial no se está aprovechando correctamente y que es necesario replantear el enfoque antes de avanzar."
   },
   {
     "card": "Dos de Bastos",
@@ -189,7 +189,7 @@ const entries = [
     "minor": "2",
     "suit": "Bastos",
     "meaning": "El Dos de Bastos indica planificación y visión de futuro. Representa la capacidad de mirar más allá de la situación actual, evaluar opciones y sentar las bases para expandirse, tanto en el ámbito profesional como personal.",
-    "alt": "Invertido, este naipe señala indecisión, miedo a salir de la zona de confort o falta de claridad en los planes. Advierte que, sin una estrategia definida, es posible estancarse en la mera contemplación de posibilidades."
+    "alt": "este naipe señala indecisión, miedo a salir de la zona de confort o falta de claridad en los planes. Advierte que, sin una estrategia definida, es posible estancarse en la mera contemplación de posibilidades."
   },
   {
     "card": "Tres de Bastos",
@@ -197,7 +197,7 @@ const entries = [
     "minor": "3",
     "suit": "Bastos",
     "meaning": "El Tres de Bastos simboliza el avance sostenido tras una planificación cuidadosa y la apertura a nuevas oportunidades. Indica que los primeros esfuerzos han dado frutos y que ahora se puede empezar a recoger resultados, así como expandir horizontes más allá del entorno inmediato.",
-    "alt": "Invertido, el Tres de Bastos puede señalar sobreconfianza, retrasos inesperados o la falta de previsión necesaria para el crecimiento. Advierte que hay riesgos de no consolidar los primeros éxitos debido a descuidos o expectativas demasiado optimistas."
+    "alt": "el Tres de Bastos puede señalar sobreconfianza, retrasos inesperados o la falta de previsión necesaria para el crecimiento. Advierte que hay riesgos de no consolidar los primeros éxitos debido a descuidos o expectativas demasiado optimistas."
   },
   {
     "card": "Cuatro de Bastos",
@@ -205,7 +205,7 @@ const entries = [
     "minor": "4",
     "suit": "Bastos",
     "meaning": "El Cuatro de Bastos representa celebración, armonía y estabilidad en la comunidad o familia. Marca un momento de logro compartido, donde se pueden festejar hitos importantes y sentir seguridad en los cimientos que se han construido.",
-    "alt": "Invertido, este naipe puede indicar que los festejos se ven empañados por tensiones ocultas, crisis en la convivencia o falta de reconocimiento del esfuerzo colectivo. Advierte que, pese a las apariencias de armonía, hay desequilibrios que necesitan atención."
+    "alt": "este naipe puede indicar que los festejos se ven empañados por tensiones ocultas, crisis en la convivencia o falta de reconocimiento del esfuerzo colectivo. Advierte que, pese a las apariencias de armonía, hay desequilibrios que necesitan atención."
   },
   {
     "card": "Cinco de Bastos",
@@ -213,7 +213,7 @@ const entries = [
     "minor": "5",
     "suit": "Bastos",
     "meaning": "El Cinco de Bastos simboliza la competencia sana y los desafíos que impulsan el crecimiento personal. Representa conflictos menores o rivalidades que, aunque incómodas, sirven para afinar habilidades y demostrar la propia valía.",
-    "alt": "Invertido, el Cinco de Bastos indica peleas estériles, falta de cooperación o tensiones que se prolongan sin resolver. Advierte que la competitividad se ha vuelto destructiva y que es necesario buscar consenso para evitar pérdidas innecesarias."
+    "alt": "el Cinco de Bastos indica peleas estériles, falta de cooperación o tensiones que se prolongan sin resolver. Advierte que la competitividad se ha vuelto destructiva y que es necesario buscar consenso para evitar pérdidas innecesarias."
   },
   {
     "card": "Seis de Bastos",
@@ -229,7 +229,7 @@ const entries = [
     "minor": "7",
     "suit": "Bastos",
     "meaning": "El Siete de Bastos simboliza la defensa de las propias convicciones y la necesidad de mantener la posición ante la adversidad. Representa el coraje y la determinación para enfrentar criticismo o competencia, recordándonos que vale la pena defender lo que creemos justo.",
-    "alt": "Invertido, este naipe puede indicar falta de coraje, dudas excesivas o saturación ante la presión externa. Advierte que, si no se recupera la fuerza interior, es posible ceder ante la crítica y perder terreno en lo que realmente importa."
+    "alt": "este naipe puede indicar falta de coraje, dudas excesivas o saturación ante la presión externa. Advierte que, si no se recupera la fuerza interior, es posible ceder ante la crítica y perder terreno en lo que realmente importa."
   },
   {
     "card": "Ocho de Bastos",
@@ -245,7 +245,7 @@ const entries = [
     "minor": "9",
     "suit": "Bastos",
     "meaning": "El Nueve de Bastos simboliza la resiliencia, la fortaleza tras haber enfrentado múltiples obstáculos y la precaución ante nuevos retos. Representa la actitud vigilante de quien, aunque cansado, sabe que aún debe mantenerse firme para alcanzar la meta.",
-    "alt": "Invertido, el Nueve de Bastos puede indicar agotamiento extremo, desconfianza paralizante o miedo a continuar. Advierte que, a menos que se recupere la energía y la fe en uno mismo, es posible abandonar justo antes del triunfo."
+    "alt": "el Nueve de Bastos puede indicar agotamiento extremo, desconfianza paralizante o miedo a continuar. Advierte que, a menos que se recupere la energía y la fe en uno mismo, es posible abandonar justo antes del triunfo."
   },
   {
     "card": "Diez de Bastos",
@@ -269,7 +269,7 @@ const entries = [
     "minor": "caballo",
     "suit": "Bastos",
     "meaning": "El Caballo de Bastos representa la acción impulsiva, la pasión y el coraje para emprender nuevos caminos. Simboliza el mensajero dinámico que trae noticias urgentes y motiva a avanzar con rapidez en proyectos que requieren valentía.",
-    "alt": "Invertido, este caballero puede señalar impulsividad descontrolada, irreflexión o temperamento explosivo. Advierte que, sin control, la prisa puede conducir a errores y que es necesario moderar la pasión con algo de cautela."
+    "alt": "este caballero puede señalar impulsividad descontrolada, irreflexión o temperamento explosivo. Advierte que, sin control, la prisa puede conducir a errores y que es necesario moderar la pasión con algo de cautela."
   },
   {
     "card": "Reina de Bastos",
@@ -285,7 +285,7 @@ const entries = [
     "minor": "Rey",
     "suit": "Bastos",
     "meaning": "El Rey de Bastos representa la autoridad natural, la visión estratégica y el liderazgo inspirador. Simboliza a alguien con gran capacidad para dirigir proyectos ambiciosos, guiando a su equipo con entusiasmo y objetividad.",
-    "alt": "Invertido, el Rey de Bastos puede señalar tiranía, intolerancia o falta de compromiso con el bienestar ajeno. Advierte que, sin humildad y escucha activa, la autoridad se vuelve impositiva y puede generar resistencia en los demás."
+    "alt": "el Rey de Bastos puede señalar tiranía, intolerancia o falta de compromiso con el bienestar ajeno. Advierte que, sin humildad y escucha activa, la autoridad se vuelve impositiva y puede generar resistencia en los demás."
   },
   {
     "card": "As de Espadas",
@@ -293,7 +293,7 @@ const entries = [
     "minor": "1",
     "suit": "Espadas",
     "meaning": "El As de Espadas simboliza la claridad mental, el inicio de nuevas ideas y la revelación de la verdad. Representa la fuerza del intelecto, la capacidad de discernimiento y el potencial para cortar con engaños o falsas creencias. Indica que ha llegado un momento de claridad decisiva y de pensamiento agudo.",
-    "alt": "Invertido, el As de Espadas puede señalar confusión mental, bloqueo comunicativo o decisiones precipitadas basadas en malentendidos. Advierte que la verdad está distorsionada y que es necesario tomar distancia para reenfocar la mente antes de actuar."
+    "alt": "el As de Espadas puede señalar confusión mental, bloqueo comunicativo o decisiones precipitadas basadas en malentendidos. Advierte que la verdad está distorsionada y que es necesario tomar distancia para reenfocar la mente antes de actuar."
   },
   {
     "card": "Dos de Espadas",
@@ -301,7 +301,7 @@ const entries = [
     "minor": "2",
     "suit": "Espadas",
     "meaning": "El Dos de Espadas refleja la necesidad de tomar una decisión difícil o de equilibrar dos ideas contrapuestas. Representa un momento de estancamiento mental donde la persona se resiste a enfrentar la realidad, eligiendo bloquear emociones y pensar fríamente. Indica que es preciso buscar el equilibrio interior antes de avanzar.",
-    "alt": "Invertido, el Dos de Espadas puede indicar negación prolongada, ansiedad por no decidir o parálisis emocional. Advierte que eludir el problema solo perpetúa la tensión interna y que es necesario soltar el bloqueo para encontrar un camino claro."
+    "alt": "el Dos de Espadas puede indicar negación prolongada, ansiedad por no decidir o parálisis emocional. Advierte que eludir el problema solo perpetúa la tensión interna y que es necesario soltar el bloqueo para encontrar un camino claro."
   },
   {
     "card": "Tres de Espadas",
@@ -309,7 +309,7 @@ const entries = [
     "minor": "3",
     "suit": "Espadas",
     "meaning": "El Tres de Espadas simboliza el dolor emocional, la traición y el sufrimiento. Representa un momento de desgarro interior, donde las heridas del corazón se hacen evidentes y es necesario confrontar la tristeza para poder sanar. Indica que la verdad hiriente ya salió a la luz y que hay que aceptar el duelo para iniciar la recuperación.",
-    "alt": "Invertido, el Tres de Espadas puede señalar negación del dolor, resentimiento prolongado o incapacidad para perdonar. Advierte que aferrarse a la herida impide el proceso de sanación y que es esencial liberar el rencor para avanzar."
+    "alt": "el Tres de Espadas puede señalar negación del dolor, resentimiento prolongado o incapacidad para perdonar. Advierte que aferrarse a la herida impide el proceso de sanación y que es esencial liberar el rencor para avanzar."
   },
   {
     "card": "Cuatro de Espadas",
@@ -317,7 +317,7 @@ const entries = [
     "minor": "4",
     "suit": "Espadas",
     "meaning": "El Cuatro de Espadas representa el descanso necesario, la contemplación y la recuperación tras una etapa de estrés o conflicto. Invita a hacer una pausa en las actividades mentales intensas, a meditar y a recargar energías antes de retomar la acción. Simboliza el retiro provisional para promover la sanación interior.",
-    "alt": "Invertido, el Cuatro de Espadas puede indicar insomnio, sobrecarga mental o incapacidad para relajarse. Advierte que ignorar la necesidad de descanso puede profundizar el agotamiento y provocar desequilibrios físicos y psicológicos más graves."
+    "alt": "el Cuatro de Espadas puede indicar insomnio, sobrecarga mental o incapacidad para relajarse. Advierte que ignorar la necesidad de descanso puede profundizar el agotamiento y provocar desequilibrios físicos y psicológicos más graves."
   },
   {
     "card": "Cinco de Espadas",
@@ -325,7 +325,7 @@ const entries = [
     "minor": "5",
     "suit": "Espadas",
     "meaning": "El Cinco de Espadas simboliza el conflicto, la derrota y la tensión moral. Representa situaciones donde la victoria se obtiene a costa de la ética o del bienestar ajeno, generando remordimientos o resentimientos. Indica la importancia de elegir entre ganar a cualquier precio o mantener la integridad.",
-    "alt": "Invertido, el Cinco de Espadas puede señalar la resolución del conflicto, el arrepentimiento o el deseo de reconciliación. También puede advertir que las tensiones reprimidas resurgen y que es necesario dialogar para sanar las heridas."
+    "alt": "el Cinco de Espadas puede señalar la resolución del conflicto, el arrepentimiento o el deseo de reconciliación. También puede advertir que las tensiones reprimidas resurgen y que es necesario dialogar para sanar las heridas."
   },
   {
     "card": "Seis de Espadas",
@@ -333,7 +333,7 @@ const entries = [
     "minor": "6",
     "suit": "Espadas",
     "meaning": "El Seis de Espadas representa la transición, el viaje hacia la tranquilidad y la superación de dificultades mentales. Simboliza el paso de un momento turbulento a uno más calmado, gracias a la voluntad de dejar atrás viejos patrones. Indica que se avanza hacia mejores perspectivas, aunque el rumbo implique incertidumbre.",
-    "alt": "Invertido, el Seis de Espadas puede indicar resistencia al cambio, miedo al futuro o estancamiento en pensamientos negativos. Advierte que, si no se suelta lo pasado, no se podrá llegar a la orilla de la paz interior."
+    "alt": "el Seis de Espadas puede indicar resistencia al cambio, miedo al futuro o estancamiento en pensamientos negativos. Advierte que, si no se suelta lo pasado, no se podrá llegar a la orilla de la paz interior."
   },
   {
     "card": "Siete de Espadas",
@@ -341,7 +341,7 @@ const entries = [
     "minor": "7",
     "suit": "Espadas",
     "meaning": "El Siete de Espadas simboliza la astucia, el sigilo y la estrategia mental. Indica que se está empleando la inteligencia para sortear obstáculos de manera discreta, o que alguien podría estar actuando con engaños o manipulaciones. Invita a vigilar los propios pensamientos y a actuar con honestidad.",
-    "alt": "Invertido, el Siete de Espadas puede señalar descubrimiento de una traición, culpabilidad por engañar o temor a ser descubierto. Advierte que los secretos salen a la luz y que es mejor afrontar las consecuencias antes que prolongar el autoengaño."
+    "alt": "el Siete de Espadas puede señalar descubrimiento de una traición, culpabilidad por engañar o temor a ser descubierto. Advierte que los secretos salen a la luz y que es mejor afrontar las consecuencias antes que prolongar el autoengaño."
   },
   {
     "card": "Ocho de Espadas",
@@ -349,7 +349,7 @@ const entries = [
     "minor": "8",
     "suit": "Espadas",
     "meaning": "El Ocho de Espadas representa la sensación de estar atrapado por los propios pensamientos o circunstancias externas. Simboliza la autoimposición de límites mentales y la creencia de que no hay salida, cuando en realidad los barrotes suelen ser ilusorios. Indica que es momento de cuestionar esas creencias limitantes para liberarse.",
-    "alt": "Invertido, el Ocho de Espadas puede señalar el inicio de la liberación, la superación de miedos o el abandono de la mentalidad victimista. Sin embargo, también puede advertir que aún persisten bloqueos internos que requieren atención para no retroceder."
+    "alt": "el Ocho de Espadas puede señalar el inicio de la liberación, la superación de miedos o el abandono de la mentalidad victimista. Sin embargo, también puede advertir que aún persisten bloqueos internos que requieren atención para no retroceder."
   },
   {
     "card": "Nueve de Espadas",
@@ -357,7 +357,7 @@ const entries = [
     "minor": "9",
     "suit": "Espadas",
     "meaning": "El Nueve de Espadas simboliza la angustia, la ansiedad y las pesadillas mentales. Representa el sufrimiento interior que suele manifestarse en noches de insomnio y pensamientos catastróficos. Indica que la mente está atrapada en una espiral de preocupaciones y que es necesario buscar ayuda o técnicas de relajación para aliviar el tormento.",
-    "alt": "Invertido, el Nueve de Espadas puede señalar la etapa inicial de aceptación del dolor, la disminución de la ansiedad o la búsqueda de soluciones. También puede advertir que la negación prolongada del sufrimiento impide la recuperación emocional."
+    "alt": "el Nueve de Espadas puede señalar la etapa inicial de aceptación del dolor, la disminución de la ansiedad o la búsqueda de soluciones. También puede advertir que la negación prolongada del sufrimiento impide la recuperación emocional."
   },
   {
     "card": "Diez de Espadas",
@@ -365,7 +365,7 @@ const entries = [
     "minor": "10",
     "suit": "Espadas",
     "meaning": "El Diez de Espadas representa el punto más bajo del sufrimiento mental o la traición definitiva. Simboliza el final de un ciclo doloroso y la aceptación de que algo ha concluido de forma irreversible. Invita a reconocer que, tras el derrumbe, solo queda reconstruir y renacer de las cenizas.",
-    "alt": "Invertido, el Diez de Espadas puede indicar resistencia al cierre, negación del final o miedo a empezar de nuevo. Advierte que aferrarse al dolor prolonga la agonía y retrasa la posibilidad de sanación."
+    "alt": "el Diez de Espadas puede indicar resistencia al cierre, negación del final o miedo a empezar de nuevo. Advierte que aferrarse al dolor prolonga la agonía y retrasa la posibilidad de sanación."
   },
   {
     "card": "Sota de Espadas",
@@ -381,7 +381,7 @@ const entries = [
     "minor": "caballo",
     "suit": "Espadas",
     "meaning": "El Caballo de Espadas representa la acción rápida del pensamiento, la comunicación directa y el impulso para buscar la verdad. Simboliza a alguien que avanza con determinación para defender sus ideas, aunque a veces pueda parecer brusco. Indica que es momento de actuar con rapidez y determinación ante un reto intelectual.",
-    "alt": "Invertido, este caballero puede señalar impulsividad verbal, agresividad o falta de tacto. Advierte que la prisa por expresar una opinión puede generar malentendidos y herir a otros, y que es necesario moderar el tono."
+    "alt": "este caballero puede señalar impulsividad verbal, agresividad o falta de tacto. Advierte que la prisa por expresar una opinión puede generar malentendidos y herir a otros, y que es necesario moderar el tono."
   },
   {
     "card": "Reina de Espadas",
@@ -397,7 +397,7 @@ const entries = [
     "minor": "Rey",
     "suit": "Espadas",
     "meaning": "El Rey de Espadas representa la autoridad intelectual, la honestidad y el pensamiento estratégico. Simboliza a alguien que ejerce liderazgo basado en la razón, la justicia y la claridad de propósito. Indica que es momento de aplicar la lógica y la planificación rigurosa para resolver problemas complejos.",
-    "alt": "Invertido, el Rey de Espadas puede señalar autoritarismo, rigidez mental o manipulación intelectual. Advierte que el uso del poder de la mente para dominar a otros puede generar resistencias y conflictos éticos."
+    "alt": "el Rey de Espadas puede señalar autoritarismo, rigidez mental o manipulación intelectual. Advierte que el uso del poder de la mente para dominar a otros puede generar resistencias y conflictos éticos."
   },
   {
     "card": "As de Copas",
@@ -405,7 +405,7 @@ const entries = [
     "minor": "1",
     "suit": "Copas",
     "meaning": "El As de Copas simboliza el nacimiento de nuevas emociones, la apertura del corazón y el florecimiento del amor. Representa la intuición, la empatía y la posibilidad de conectar a un nivel profundo con los demás, así como el inicio de una etapa de plenitud emocional.",
-    "alt": "Invertido, el As de Copas puede señalar bloqueo afectivo, represión emocional o falta de empatía. Advierte que el flujo de los sentimientos está retenido y que es necesario liberar el corazón para evitar estancamientos emocionales."
+    "alt": "el As de Copas puede señalar bloqueo afectivo, represión emocional o falta de empatía. Advierte que el flujo de los sentimientos está retenido y que es necesario liberar el corazón para evitar estancamientos emocionales."
   },
   {
     "card": "Dos de Copas",
@@ -413,7 +413,7 @@ const entries = [
     "minor": "2",
     "suit": "Copas",
     "meaning": "El Dos de Copas refleja la unión armoniosa, la atracción mutua y el comienzo de una relación basada en el respeto y la reciprocidad. Simboliza la cooperación, la complicidad y la creación de vínculos emocionales equilibrados entre dos personas.",
-    "alt": "Invertido, el Dos de Copas puede indicar desacuerdos, desequilibrio en la pareja o falta de compromiso. Advierte que la relación adolece de reciprocidad y que es necesario dialogar para restablecer la armonía."
+    "alt": "el Dos de Copas puede indicar desacuerdos, desequilibrio en la pareja o falta de compromiso. Advierte que la relación adolece de reciprocidad y que es necesario dialogar para restablecer la armonía."
   },
   {
     "card": "Tres de Copas",
@@ -421,7 +421,7 @@ const entries = [
     "minor": "3",
     "suit": "Copas",
     "meaning": "El Tres de Copas simboliza la celebración, la amistad sincera y la colaboración creativa. Representa momentos de alegría compartida, reuniones sociales y el apoyo mutuo en un ambiente festivo, donde la unión de energías emociona a todos los involucrados.",
-    "alt": "Invertido, el Tres de Copas puede señalar excesos en el festejo, rivalidades ocultas o amistades superficiales. Advierte que la alegría se está consumiendo en exceso de indiferencia o conflictos latentes en el grupo."
+    "alt": "el Tres de Copas puede señalar excesos en el festejo, rivalidades ocultas o amistades superficiales. Advierte que la alegría se está consumiendo en exceso de indiferencia o conflictos latentes en el grupo."
   },
   {
     "card": "Cuatro de Copas",
@@ -429,7 +429,7 @@ const entries = [
     "minor": "4",
     "suit": "Copas",
     "meaning": "El Cuatro de Copas representa la introspección emocional, la apatía o el aburrimiento afectivo. Indica un momento en que se valoran poco las oportunidades que llegan desde el corazón, invitando a buscar dentro de uno mismo para redescubrir qué es lo que realmente se desea.",
-    "alt": "Invertido, el Cuatro de Copas puede señalar compulsión emocional, escapismo o incapacidad para aprovechar una oferta amorosa. Advierte que la insatisfacción interna impide ver regalos afectivos presentes en el entorno."
+    "alt": "el Cuatro de Copas puede señalar compulsión emocional, escapismo o incapacidad para aprovechar una oferta amorosa. Advierte que la insatisfacción interna impide ver regalos afectivos presentes en el entorno."
   },
   {
     "card": "Cinco de Copas",
@@ -437,7 +437,7 @@ const entries = [
     "minor": "5",
     "suit": "Copas",
     "meaning": "El Cinco de Copas simboliza la pérdida emocional, el duelo y el sentimiento de decepción. Representa la concentración en lo que se ha derramado o perdido, invitando a procesar el dolor para poder seguir adelante y reconocer las oportunidades que aún permanecen intactas.",
-    "alt": "Invertido, el Cinco de Copas puede señalar negación del duelo, falseamiento de los sentimientos o incapacidad para sanar. Advierte que ignorar el dolor prolonga el sufrimiento y retrasa la recuperación."
+    "alt": "el Cinco de Copas puede señalar negación del duelo, falseamiento de los sentimientos o incapacidad para sanar. Advierte que ignorar el dolor prolonga el sufrimiento y retrasa la recuperación."
   },
   {
     "card": "Seis de Copas",
@@ -445,7 +445,7 @@ const entries = [
     "minor": "6",
     "suit": "Copas",
     "meaning": "El Seis de Copas simboliza la nostalgia, los recuerdos de la infancia y la ternura inocente. Representa la conexión con el pasado, la reencuentro con personas queridas y la posibilidad de sanar a través de la bondad y la simpleza afectiva de tiempos pasados.",
-    "alt": "Invertido, el Seis de Copas puede indicar estancamiento en el pasado, rechazo a madurar o idealización excesiva de recuerdos. Advierte que vivir en la nostalgia impide aprovechar las oportunidades presentes."
+    "alt": "el Seis de Copas puede indicar estancamiento en el pasado, rechazo a madurar o idealización excesiva de recuerdos. Advierte que vivir en la nostalgia impide aprovechar las oportunidades presentes."
   },
   {
     "card": "Siete de Copas",
@@ -453,7 +453,7 @@ const entries = [
     "minor": "7",
     "suit": "Copas",
     "meaning": "El Siete de Copas refleja las múltiples opciones emocionales y la fantasía. Simboliza la tentación de soñar despierto, las ilusiones románticas y la necesidad de discernir entre lo real y lo ilusorio antes de tomar una decisión que implique el corazón.",
-    "alt": "Invertido, el Siete de Copas puede señalar confusión ante tantas alternativas, engaños emocionales o indecisión paralizante. Advierte que las fantasías sin fundamento llevan a la decepción y que es preciso aterrizar en la realidad."
+    "alt": "el Siete de Copas puede señalar confusión ante tantas alternativas, engaños emocionales o indecisión paralizante. Advierte que las fantasías sin fundamento llevan a la decepción y que es preciso aterrizar en la realidad."
   },
   {
     "card": "Ocho de Copas",
@@ -461,7 +461,7 @@ const entries = [
     "minor": "8",
     "suit": "Copas",
     "meaning": "El Ocho de Copas simboliza la renuncia voluntaria a relaciones o situaciones que ya no llenan el alma. Representa el momento de dejar atrás lo conocido para emprender un viaje interior de búsqueda de mayor satisfacción emocional, aunque implique incertidumbre.",
-    "alt": "Invertido, el Ocho de Copas puede indicar miedo a dejar el confort emocional, estancamiento en una relación insatisfactoria o negación de la necesidad de cambio. Advierte que aferrarse al pasado impide el crecimiento."
+    "alt": "el Ocho de Copas puede indicar miedo a dejar el confort emocional, estancamiento en una relación insatisfactoria o negación de la necesidad de cambio. Advierte que aferrarse al pasado impide el crecimiento."
   },
   {
     "card": "Nueve de Copas",
@@ -469,7 +469,7 @@ const entries = [
     "minor": "9",
     "suit": "Copas",
     "meaning": "El Nueve de Copas simboliza el bienestar emocional, la gratitud y la satisfacción de deseos. Representa la plenitud interior, la autoestima fortalecida y el disfrute de los frutos afectivos, invitando a celebrar los logros sentimentales alcanzados.",
-    "alt": "Invertido, el Nueve de Copas puede señalar complacencia excesiva, vanidad sentimental o felicidad superficial. Advierte que el ego emocional puede cegar frente a necesidades más profundas, generando insatisfacción a largo plazo."
+    "alt": "el Nueve de Copas puede señalar complacencia excesiva, vanidad sentimental o felicidad superficial. Advierte que el ego emocional puede cegar frente a necesidades más profundas, generando insatisfacción a largo plazo."
   },
   {
     "card": "Diez de Copas",
@@ -477,7 +477,7 @@ const entries = [
     "minor": "10",
     "suit": "Copas",
     "meaning": "El Diez de Copas representa la armonía familiar, la felicidad compartida y el amor incondicional. Simboliza la realización de un ideal afectivo, el hogar feliz y la sensación de pertenencia a un entorno emocionalmente pleno y estable.",
-    "alt": "Invertido, el Diez de Copas puede indicar apariencias engañosas de felicidad, tensiones familiares ocultas o expectativas afectivas irreales. Advierte que la imagen perfecta puede ocultar conflictos no resueltos."
+    "alt": "el Diez de Copas puede indicar apariencias engañosas de felicidad, tensiones familiares ocultas o expectativas afectivas irreales. Advierte que la imagen perfecta puede ocultar conflictos no resueltos."
   },
   {
     "card": "Sota de Copas",
@@ -485,7 +485,7 @@ const entries = [
     "minor": "sota",
     "suit": "Copas",
     "meaning": "La Sota de Copas simboliza la curiosidad emocional, la sensibilidad artística y la disposición a explorar sentimientos. Representa un mensajero afectivo que trae noticias de amor, invitando a abrir el corazón a nuevas experiencias sentimentales y creativas.",
-    "alt": "Invertido, la Sota de Copas puede señalar inmadurez emocional, timidez excesiva o malentendidos afectivos. Advierte que la receptividad sin límites puede llevar a desilusiones o a idealizar demasiado a los demás."
+    "alt": "la Sota de Copas puede señalar inmadurez emocional, timidez excesiva o malentendidos afectivos. Advierte que la receptividad sin límites puede llevar a desilusiones o a idealizar demasiado a los demás."
   },
   {
     "card": "Caballo de Copas",
@@ -493,7 +493,7 @@ const entries = [
     "minor": "caballo",
     "suit": "Copas",
     "meaning": "El Caballo de Copas representa el romanticismo, la galantería y el mensaje de amor. Simboliza a alguien que actúa guiado por el corazón, expresando sentimientos con sensibilidad y encanto, y que puede traer propuestas emocionales significativas.",
-    "alt": "Invertido, este caballero puede señalar idealismo desbordado, dependencia emocional o promesas vacías. Advierte que el exceso de romanticismo sin sustento real puede conducir a decepciones sentimentales."
+    "alt": "este caballero puede señalar idealismo desbordado, dependencia emocional o promesas vacías. Advierte que el exceso de romanticismo sin sustento real puede conducir a decepciones sentimentales."
   },
   {
     "card": "Reina de Copas",
@@ -509,7 +509,7 @@ const entries = [
     "minor": "Rey",
     "suit": "Copas",
     "meaning": "El Rey de Copas representa la madurez emocional, la diplomacia y el liderazgo empático. Simboliza a una persona calmada, justa y equilibrada, capaz de manejar con serenidad conflictos afectivos y de ofrecer apoyo emocional sin perder la objetividad.",
-    "alt": "Invertido, el Rey de Copas puede señalar manipulación emocional, frialdad disfrazada de afecto o inestabilidad oculta. Advierte que, cuando la empatía se utiliza para controlar, se traiciona la verdadera esencia del corazón."
+    "alt": "el Rey de Copas puede señalar manipulación emocional, frialdad disfrazada de afecto o inestabilidad oculta. Advierte que, cuando la empatía se utiliza para controlar, se traiciona la verdadera esencia del corazón."
   },
   {
     "card": "As de Oros",
@@ -517,7 +517,7 @@ const entries = [
     "minor": "1",
     "suit": "Oros",
     "meaning": "El As de Oros simboliza una nueva oportunidad material, el inicio de proyectos financieros o profesionales con alto potencial de prosperidad. Representa la semilla de la abundancia tangible, invitando a plantar la base sólida para el crecimiento económico y la estabilidad futura.",
-    "alt": "Invertido, el As de Oros puede señalar falta de recursos, oportunidades perdidas o miedo a invertir. Advierte que la semilla de la prosperidad no se está cultivando adecuadamente y que la inseguridad material está bloqueando el avance."
+    "alt": "el As de Oros puede señalar falta de recursos, oportunidades perdidas o miedo a invertir. Advierte que la semilla de la prosperidad no se está cultivando adecuadamente y que la inseguridad material está bloqueando el avance."
   },
   {
     "card": "Dos de Oros",
@@ -525,7 +525,7 @@ const entries = [
     "minor": "2",
     "suit": "Oros",
     "meaning": "El Dos de Oros refleja la habilidad para equilibrar múltiples responsabilidades financieras o laborales. Representa la adaptabilidad, la gestión eficiente de recursos y la capacidad de mantener la armonía entre ingresos y gastos, aun en situaciones cambiantes.",
-    "alt": "Invertido, el Dos de Oros puede indicar desequilibrio económico, estrés por múltiples obligaciones o falta de organización financiera. Advierte que, sin una gestión adecuada, los recursos pueden dispersarse y generar inestabilidad."
+    "alt": "el Dos de Oros puede indicar desequilibrio económico, estrés por múltiples obligaciones o falta de organización financiera. Advierte que, sin una gestión adecuada, los recursos pueden dispersarse y generar inestabilidad."
   },
   {
     "card": "Tres de Oros",
@@ -533,7 +533,7 @@ const entries = [
     "minor": "3",
     "suit": "Oros",
     "meaning": "El Tres de Oros simboliza la colaboración exitosa y el reconocimiento por el trabajo bien hecho. Representa el oficio, la maestría y la recompensa derivada del esfuerzo conjunto, señalando que el talento se amplifica cuando se trabaja en equipo bajo estándares de excelencia.",
-    "alt": "Invertido, el Tres de Oros puede señalar conflictos en el trabajo, falta de coordinación o negligencia en los detalles. Advierte que la calidad del resultado se ve comprometida cuando no se valora el aporte de cada quien o se descuida la profesionalidad."
+    "alt": "el Tres de Oros puede señalar conflictos en el trabajo, falta de coordinación o negligencia en los detalles. Advierte que la calidad del resultado se ve comprometida cuando no se valora el aporte de cada quien o se descuida la profesionalidad."
   },
   {
     "card": "Cuatro de Oros",
@@ -541,7 +541,7 @@ const entries = [
     "minor": "4",
     "suit": "Oros",
     "meaning": "El Cuatro de Oros representa la estabilidad material y el deseo de proteger los bienes acumulados. Simboliza la cautela financiera, la consolidación de recursos y la necesidad de seguridad económica, invitando a resguardar los logros para evitar pérdidas futuras.",
-    "alt": "Invertido, el Cuatro de Oros puede indicar avaricia, temor al cambio o apego excesivo a lo material. Advierte que la seguridad se convierte en posesividad, impidiendo el flujo natural de recursos y obstaculizando la generosidad."
+    "alt": "el Cuatro de Oros puede indicar avaricia, temor al cambio o apego excesivo a lo material. Advierte que la seguridad se convierte en posesividad, impidiendo el flujo natural de recursos y obstaculizando la generosidad."
   },
   {
     "card": "Cinco de Oros",
@@ -549,7 +549,7 @@ const entries = [
     "minor": "5",
     "suit": "Oros",
     "meaning": "El Cinco de Oros simboliza dificultades económicas, privaciones o pérdida de recursos. Representa un momento de carencia material y sensación de abandono, invitando a buscar apoyo externo y a reconocer que la ayuda puede llegar incluso en la adversidad.",
-    "alt": "Invertido, el Cinco de Oros puede señalar recuperación de la crisis, resistencia al victimismo o temor a aceptar asistencia. Advierte que, si se sigue negando la ayuda, la situación difícil puede prolongarse innecesariamente."
+    "alt": "el Cinco de Oros puede señalar recuperación de la crisis, resistencia al victimismo o temor a aceptar asistencia. Advierte que, si se sigue negando la ayuda, la situación difícil puede prolongarse innecesariamente."
   },
   {
     "card": "Seis de Oros",
@@ -557,7 +557,7 @@ const entries = [
     "minor": "6",
     "suit": "Oros",
     "meaning": "El Seis de Oros representa la generosidad, la ayuda mutua y el flujo equilibrado de recursos. Simboliza la prosperidad compartida, donde quien tiene posibilidad brinda apoyo al que lo necesita, incentivando la reciprocidad y la justicia social en el plano material.",
-    "alt": "Invertido, el Seis de Oros puede indicar dependencia excesiva, favoritismos o recibo de ayuda condicional. Advierte que la balanza de dar y recibir está desequilibrada, generando deudas emocionales o abusos de poder."
+    "alt": "el Seis de Oros puede indicar dependencia excesiva, favoritismos o recibo de ayuda condicional. Advierte que la balanza de dar y recibir está desequilibrada, generando deudas emocionales o abusos de poder."
   },
   {
     "card": "Siete de Oros",
@@ -565,7 +565,7 @@ const entries = [
     "minor": "7",
     "suit": "Oros",
     "meaning": "El Siete de Oros simboliza la evaluación de las inversiones y la paciencia ante los resultados. Representa un periodo de reflexión sobre el progreso económico o laboral, invitando a analizar si los esfuerzos están rindiendo frutos y a ajustar la estrategia a largo plazo.",
-    "alt": "Invertido, el Siete de Oros puede señalar impaciencia, desmotivación o abandono prematuro de un proyecto. Advierte que, al no valorar el tiempo necesario para la maduración, se corre el riesgo de perder oportunidades consolidadas."
+    "alt": "el Siete de Oros puede señalar impaciencia, desmotivación o abandono prematuro de un proyecto. Advierte que, al no valorar el tiempo necesario para la maduración, se corre el riesgo de perder oportunidades consolidadas."
   },
   {
     "card": "Ocho de Oros",
@@ -573,7 +573,7 @@ const entries = [
     "minor": "8",
     "suit": "Oros",
     "meaning": "El Ocho de Oros representa la dedicación al oficio, el aprendizaje constante y la perfección en el trabajo. Simboliza el artesano concentrado en su tarea, que mejora sus habilidades mediante la práctica disciplinada y el compromiso con la calidad.",
-    "alt": "Invertido, el Ocho de Oros puede indicar falta de motivación, desgano por el trabajo o errores repetitivos. Advierte que, si no se pone empeño en el aprendizaje, se estancan las habilidades y se compromete la excelencia."
+    "alt": "el Ocho de Oros puede indicar falta de motivación, desgano por el trabajo o errores repetitivos. Advierte que, si no se pone empeño en el aprendizaje, se estancan las habilidades y se compromete la excelencia."
   },
   {
     "card": "Nueve de Oros",
@@ -581,7 +581,7 @@ const entries = [
     "minor": "9",
     "suit": "Oros",
     "meaning": "El Nueve de Oros simboliza la independencia financiera, el disfrute de los frutos del esfuerzo personal y la abundancia lograda con responsabilidad. Representa la autosuficiencia, el lujo moderado y la gratitud por los logros materiales alcanzados.",
-    "alt": "Invertido, el Nueve de Oros puede señalar vanidad, aislamiento o temor a la pérdida de status. Advierte que, al centrarse demasiado en lo material, se descuida el bienestar emocional y las relaciones genuinas."
+    "alt": "el Nueve de Oros puede señalar vanidad, aislamiento o temor a la pérdida de status. Advierte que, al centrarse demasiado en lo material, se descuida el bienestar emocional y las relaciones genuinas."
   },
   {
     "card": "Diez de Oros",
@@ -589,7 +589,7 @@ const entries = [
     "minor": "10",
     "suit": "Oros",
     "meaning": "El Diez de Oros representa la estabilidad familiar, la herencia y el legado patrimonial. Simboliza la culminación de la prosperidad material transmitida entre generaciones, así como el sentido de pertenencia y la seguridad que brinda un linaje consolidado.",
-    "alt": "Invertido, el Diez de Oros puede indicar conflictos familiares por dinero, herencias disputadas o expectativas irreales. Advierte que los bienes pueden convertirse en fuente de discordia si no se gestionan con equidad y transparencia."
+    "alt": "el Diez de Oros puede indicar conflictos familiares por dinero, herencias disputadas o expectativas irreales. Advierte que los bienes pueden convertirse en fuente de discordia si no se gestionan con equidad y transparencia."
   },
   {
     "card": "Sota de Oros",
@@ -597,7 +597,7 @@ const entries = [
     "minor": "sota",
     "suit": "Oros",
     "meaning": "La Sota de Oros simboliza la curiosidad práctica, el interés por aprender sobre finanzas y el inicio de estudios relacionados con el mundo material. Representa un mensajero que trae noticias de trabajo o de oportunidades para formarse en algún oficio concretamente útil.",
-    "alt": "Invertido, la Sota de Oros puede señalar inmadurez financiera, falta de compromiso con el aprendizaje o distracción en proyectos prácticos. Advierte que el aprendizaje superficial no conduce a resultados sólidos ni duraderos."
+    "alt": "la Sota de Oros puede señalar inmadurez financiera, falta de compromiso con el aprendizaje o distracción en proyectos prácticos. Advierte que el aprendizaje superficial no conduce a resultados sólidos ni duraderos."
   },
   {
     "card": "Caballo de Oros",
@@ -605,7 +605,7 @@ const entries = [
     "minor": "caballo",
     "suit": "Oros",
     "meaning": "El Caballo de Oros representa la perseverancia en el trabajo, la prudencia en las inversiones y el avance constante hacia las metas materiales. Simboliza a alguien que progresa con determinación y seguridad, sin apresurarse, asegurando cada paso.",
-    "alt": "Invertido, este caballero puede señalar terquedad, lentitud excesiva o aversión al riesgo. Advierte que el miedo al cambio puede frenar el progreso y que la falta de flexibilidad impide aprovechar nuevas oportunidades."
+    "alt": "este caballero puede señalar terquedad, lentitud excesiva o aversión al riesgo. Advierte que el miedo al cambio puede frenar el progreso y que la falta de flexibilidad impide aprovechar nuevas oportunidades."
   },
   {
     "card": "Reina de Oros",
@@ -621,6 +621,6 @@ const entries = [
     "minor": "Rey",
     "suit": "Oros",
     "meaning": "El Rey de Oros representa la autoridad en los asuntos financieros y la administración eficiente del patrimonio. Simboliza a una persona con gran experiencia empresarial, liderazgo pragmático y la capacidad de generar y mantener riqueza de forma ética y estable.",
-    "alt": "Invertido, el Rey de Oros puede indicar avaricia, corrupción o manejo irresponsable de recursos. Advierte que el poder económico sin principios puede conducir a abusos y a la pérdida de la confianza de quienes dependen del bienestar común."
+    "alt": "el Rey de Oros puede indicar avaricia, corrupción o manejo irresponsable de recursos. Advierte que el poder económico sin principios puede conducir a abusos y a la pérdida de la confianza de quienes dependen del bienestar común."
   }
 ];

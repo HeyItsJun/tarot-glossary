@@ -2,4 +2,4 @@
 
 Personal project. Local glossary for all cards in a standard tarot deck.
 
-Status: almost finished (needs polishing).
+Status: temporarily finished (needs polishing).
