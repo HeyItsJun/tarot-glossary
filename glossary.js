@@ -2,8 +2,7 @@ const table = document.getElementById("results");
 const input = document.getElementById("searchbar");
 const selector = document.getElementById("selector");
 
-document.getElementById("mainPageBtn").addEventListener("click", () => window.open("index.html", "_self")); // volver a index
-document.getElementById("wsystemsBtn").addEventListener("click", () => window.open("wsystems.html", "_self"));
+// document.getElementById("mainPageBtn").addEventListener("click", () => window.open("index.html", "_self")); // volver a index
 
 window.addEventListener("load", () => {
     loadTable();
@@ -28,14 +27,11 @@ function loadTable() {
 
 function format(entry) {
     const format = document.createElement("div");
-
-    addElement("h3", capitalizeFirst(entry.word), format);
-    addElement("p", capitalizeFirst(entry.description), format);
-    addElement("b", "English translation: ", format);
-    addElement("i", entry.engtl, format);
-    format.appendChild(document.createElement("br"));
-    addElement("b", "Category: ", format);
-    addElement("small", capitalizeFirst(entry.categ), format);
+    
+    addElement("h3", capitalizeFirst(entry.card), format);
+    addElement("p", capitalizeFirst(entry.meaning), format);
+    addElement("b", "Reversed meaning: ", format);
+    addElement("i", entry.alt, format);
     format.appendChild(document.createElement("br"));
     format.appendChild(document.createElement("br"));
 
