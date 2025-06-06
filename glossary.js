@@ -13,11 +13,23 @@ selector.addEventListener("mousedown", () => input.focus());
 
 function loadTable() {
     table.innerHTML = "";
-    const filteredEntries = input.value.trim() !== "" ? entries.filter(entry => (entry[selector.value] || "").toLowerCase().startsWith(input.value.trim())) : entries;
-    filteredEntries.sort((entry1, entry2) => entry1.word.localeCompare(entry2.word, "en")); // orden alfabético
-    // console.log(filteredEntries);
+
+    // Filtro basado en el valor actual del selector (campo que se va a buscar)
+    const searchField = selector.value;
+    const searchTerm = input.value.trim().toLowerCase();
+
+    const filteredEntries = searchTerm !== ""
+        ? entries.filter(entry => {
+            const fieldValue = (entry[searchField] || "").toString().toLowerCase();
+            return fieldValue.startsWith(searchTerm);
+        })
+        : entries;
+
+    // Orden alfabético por el campo "card" (el nombre de la carta)
+    filteredEntries.sort((entry1, entry2) => entry1.card.localeCompare(entry2.card, "es"));
+
     if (filteredEntries.length === 0) {
-        table.insertRow().insertCell().innerHTML = "No entries matching \"" + input.value.trim() + "\" found.";
+        table.insertRow().insertCell().innerHTML = `No se encontraron entradas que coincidan con "${input.value.trim()}".`;
     } else {
         filteredEntries.forEach(entry => {
             table.insertRow().insertCell().innerHTML = format(entry);
@@ -27,11 +39,19 @@ function loadTable() {
 
 function format(entry) {
     const format = document.createElement("div");
-    
+
     addElement("h3", capitalizeFirst(entry.card), format);
+
+    if (entry.major !== null) {
+        addElement("p", `Arcano Mayor — Número: ${entry.major}`, format);
+    } else {
+        addElement("p", `Arcano Menor — Palo: ${entry.suit}, Número: ${entry.minor}`, format);
+    }
+
     addElement("p", capitalizeFirst(entry.meaning), format);
-    addElement("b", "Reversed meaning: ", format);
+    addElement("b", "Significado invertido: ", format);
     addElement("i", entry.alt, format);
+
     format.appendChild(document.createElement("br"));
     format.appendChild(document.createElement("br"));
 
