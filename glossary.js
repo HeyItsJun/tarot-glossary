@@ -23,10 +23,10 @@ function loadTable() {
             const fieldValue = (entry[searchField] || "").toString().toLowerCase();
             return fieldValue.startsWith(searchTerm);
         })
-        : entries;
+        : entries.slice(); // Create a copy to preserve original order
 
-    // Orden alfabético por el campo "card" (el nombre de la carta)
-    filteredEntries.sort((entry1, entry2) => entry1.card.localeCompare(entry2.card, "es"));
+    // Eliminamos el ordenamiento alfabético para mantener el orden del archivo original
+    // filteredEntries.sort((entry1, entry2) => entry1.card.localeCompare(entry2.card, "es"));
 
     if (filteredEntries.length === 0) {
         table.insertRow().insertCell().innerHTML = `No se encontraron entradas que coincidan con "${input.value.trim()}".`;
