@@ -2,8 +2,6 @@ const table = document.getElementById("results");
 const input = document.getElementById("searchbar");
 const selector = document.getElementById("selector");
 
-// document.getElementById("mainPageBtn").addEventListener("click", () => window.open("index.html", "_self")); // volver a index
-
 window.addEventListener("load", () => {
     loadTable();
     input.focus();
@@ -24,9 +22,6 @@ function loadTable() {
             return fieldValue.startsWith(searchTerm);
         })
         : entries.slice(); // Create a copy to preserve original order
-
-    // Eliminamos el ordenamiento alfabético para mantener el orden del archivo original
-    // filteredEntries.sort((entry1, entry2) => entry1.card.localeCompare(entry2.card, "es"));
 
     if (filteredEntries.length === 0) {
         table.insertRow().insertCell().innerHTML = `No se encontraron entradas que coincidan con "${input.value.trim()}".`;
